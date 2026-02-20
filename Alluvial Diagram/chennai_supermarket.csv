@@ -1,0 +1,217 @@
+Store,Month,Category,Product_Group,Monthly_Sales_INR,Units_Sold,Profit_Margin %,Actual vs Forecast
+Chennai_Supermarket_1,2026-01,Provision,Rice & Grains,46341,767,8.6%,Actual
+Chennai_Supermarket_1,2026-01,Provision,Pulses & Lentils,28375,400,7.8%,Actual
+Chennai_Supermarket_1,2026-01,Provision,Cooking Oil,41600,287,7.5%,Actual
+Chennai_Supermarket_1,2026-01,Provision,Sugar & Salt,15488,378,7.5%,Actual
+Chennai_Supermarket_1,2026-01,Grocery,Beverages,30435,688,7.3%,Actual
+Chennai_Supermarket_1,2026-01,Grocery,Dairy Essentials,27055,513,9.3%,Actual
+Chennai_Supermarket_1,2026-01,Grocery,Household Cleaners,17019,131,10.5%,Actual
+Chennai_Supermarket_1,2026-01,Grocery,Staples Packaged,21701,272,7.6%,Actual
+Chennai_Supermarket_1,2026-01,Vegetables & Fruits,Fresh Vegetables,58040,1945,4.8%,Actual
+Chennai_Supermarket_1,2026-01,Vegetables & Fruits,Seasonal Fruits,42946,1190,5.7%,Actual
+Chennai_Supermarket_1,2026-01,Vegetables & Fruits,Organic Produce,11566,157,6.0%,Actual
+Chennai_Supermarket_1,2026-01,Snacks & Bakery,Biscuits & Cookies,32778,1137,8.8%,Actual
+Chennai_Supermarket_1,2026-01,Snacks & Bakery,Bread & Buns,18225,821,8.7%,Actual
+Chennai_Supermarket_1,2026-01,Snacks & Bakery,Cakes & Pastries,9106,47,10.2%,Actual
+Chennai_Supermarket_1,2026-01,Snacks & Bakery,Chips & Ready Snacks,25819,1017,8.5%,Actual
+Chennai_Supermarket_1,2026-01,Cosmetics,Skincare Products,13395,52,19.1%,Actual
+Chennai_Supermarket_1,2026-01,Cosmetics,Personal Hygiene,22453,170,18.3%,Actual
+Chennai_Supermarket_1,2026-01,Cosmetics,Haircare,11722,62,18.6%,Actual
+Chennai_Supermarket_1,2026-02,Provision,Rice & Grains,47783,833,7.2%,Actual
+Chennai_Supermarket_1,2026-02,Provision,Pulses & Lentils,25517,370,9.0%,Actual
+Chennai_Supermarket_1,2026-02,Provision,Cooking Oil,36907,243,6.9%,Actual
+Chennai_Supermarket_1,2026-02,Provision,Sugar & Salt,13923,362,9.4%,Actual
+Chennai_Supermarket_1,2026-02,Grocery,Beverages,29870,784,9.4%,Actual
+Chennai_Supermarket_1,2026-02,Grocery,Dairy Essentials,26916,548,10.5%,Actual
+Chennai_Supermarket_1,2026-02,Grocery,Household Cleaners,17961,161,6.4%,Actual
+Chennai_Supermarket_1,2026-02,Grocery,Staples Packaged,23084,289,8.7%,Actual
+Chennai_Supermarket_1,2026-02,Vegetables & Fruits,Fresh Vegetables,60330,1811,5.8%,Actual
+Chennai_Supermarket_1,2026-02,Vegetables & Fruits,Seasonal Fruits,42899,1316,5.5%,Actual
+Chennai_Supermarket_1,2026-02,Vegetables & Fruits,Organic Produce,11417,139,6.9%,Actual
+Chennai_Supermarket_1,2026-02,Snacks & Bakery,Biscuits & Cookies,35690,1158,10.5%,Actual
+Chennai_Supermarket_1,2026-02,Snacks & Bakery,Bread & Buns,18104,949,9.3%,Actual
+Chennai_Supermarket_1,2026-02,Snacks & Bakery,Cakes & Pastries,8823,43,8.5%,Actual
+Chennai_Supermarket_1,2026-02,Snacks & Bakery,Chips & Ready Snacks,26461,1072,10.0%,Actual
+Chennai_Supermarket_1,2026-02,Cosmetics,Skincare Products,13802,51,17.6%,Actual
+Chennai_Supermarket_1,2026-02,Cosmetics,Personal Hygiene,21547,172,17.8%,Actual
+Chennai_Supermarket_1,2026-02,Cosmetics,Haircare,12290,74,18.2%,Actual
+Chennai_Supermarket_1,2026-03,Provision,Rice & Grains,45695,758,6.1%,Forecast
+Chennai_Supermarket_1,2026-03,Provision,Pulses & Lentils,25958,371,10.5%,Forecast
+Chennai_Supermarket_1,2026-03,Provision,Cooking Oil,37561,254,8.0%,Forecast
+Chennai_Supermarket_1,2026-03,Provision,Sugar & Salt,13948,368,8.8%,Forecast
+Chennai_Supermarket_1,2026-03,Grocery,Beverages,31423,749,10.4%,Forecast
+Chennai_Supermarket_1,2026-03,Grocery,Dairy Essentials,28722,591,11.2%,Forecast
+Chennai_Supermarket_1,2026-03,Grocery,Household Cleaners,16930,137,9.1%,Forecast
+Chennai_Supermarket_1,2026-03,Grocery,Staples Packaged,21335,246,9.1%,Forecast
+Chennai_Supermarket_1,2026-03,Vegetables & Fruits,Fresh Vegetables,64602,2204,5.1%,Forecast
+Chennai_Supermarket_1,2026-03,Vegetables & Fruits,Seasonal Fruits,52791,1449,5.7%,Forecast
+Chennai_Supermarket_1,2026-03,Vegetables & Fruits,Organic Produce,14473,169,6.2%,Forecast
+Chennai_Supermarket_1,2026-03,Snacks & Bakery,Biscuits & Cookies,37744,1157,10.2%,Forecast
+Chennai_Supermarket_1,2026-03,Snacks & Bakery,Bread & Buns,18280,949,8.8%,Forecast
+Chennai_Supermarket_1,2026-03,Snacks & Bakery,Cakes & Pastries,8286,42,10.3%,Forecast
+Chennai_Supermarket_1,2026-03,Snacks & Bakery,Chips & Ready Snacks,26390,1073,9.3%,Forecast
+Chennai_Supermarket_1,2026-03,Cosmetics,Skincare Products,14195,57,17.3%,Forecast
+Chennai_Supermarket_1,2026-03,Cosmetics,Personal Hygiene,24462,208,16.8%,Forecast
+Chennai_Supermarket_1,2026-03,Cosmetics,Haircare,12472,65,18.8%,Forecast
+Chennai_Supermarket_1,2026-04,Provision,Rice & Grains,48128,769,9.0%,Forecast
+Chennai_Supermarket_1,2026-04,Provision,Pulses & Lentils,26643,396,9.9%,Forecast
+Chennai_Supermarket_1,2026-04,Provision,Cooking Oil,37440,240,7.1%,Forecast
+Chennai_Supermarket_1,2026-04,Provision,Sugar & Salt,14265,355,8.3%,Forecast
+Chennai_Supermarket_1,2026-04,Grocery,Beverages,35987,936,9.0%,Forecast
+Chennai_Supermarket_1,2026-04,Grocery,Dairy Essentials,34094,672,11.7%,Forecast
+Chennai_Supermarket_1,2026-04,Grocery,Household Cleaners,18675,148,7.9%,Forecast
+Chennai_Supermarket_1,2026-04,Grocery,Staples Packaged,22636,279,9.7%,Forecast
+Chennai_Supermarket_1,2026-04,Vegetables & Fruits,Fresh Vegetables,70959,2356,5.2%,Forecast
+Chennai_Supermarket_1,2026-04,Vegetables & Fruits,Seasonal Fruits,43909,1226,6.9%,Forecast
+Chennai_Supermarket_1,2026-04,Vegetables & Fruits,Organic Produce,13977,163,6.2%,Forecast
+Chennai_Supermarket_1,2026-04,Snacks & Bakery,Biscuits & Cookies,35809,1140,10.2%,Forecast
+Chennai_Supermarket_1,2026-04,Snacks & Bakery,Bread & Buns,18062,851,10.4%,Forecast
+Chennai_Supermarket_1,2026-04,Snacks & Bakery,Cakes & Pastries,9302,49,11.1%,Forecast
+Chennai_Supermarket_1,2026-04,Snacks & Bakery,Chips & Ready Snacks,23850,909,10.5%,Forecast
+Chennai_Supermarket_1,2026-04,Cosmetics,Skincare Products,14431,59,21.9%,Forecast
+Chennai_Supermarket_1,2026-04,Cosmetics,Personal Hygiene,22753,200,19.0%,Forecast
+Chennai_Supermarket_1,2026-04,Cosmetics,Haircare,12469,68,18.8%,Forecast
+Chennai_Supermarket_1,2026-05,Provision,Rice & Grains,42913,706,7.5%,Forecast
+Chennai_Supermarket_1,2026-05,Provision,Pulses & Lentils,26127,416,6.1%,Forecast
+Chennai_Supermarket_1,2026-05,Provision,Cooking Oil,39564,242,7.5%,Forecast
+Chennai_Supermarket_1,2026-05,Provision,Sugar & Salt,15980,400,6.9%,Forecast
+Chennai_Supermarket_1,2026-05,Grocery,Beverages,33880,875,8.3%,Forecast
+Chennai_Supermarket_1,2026-05,Grocery,Dairy Essentials,31767,636,8.3%,Forecast
+Chennai_Supermarket_1,2026-05,Grocery,Household Cleaners,20315,174,7.0%,Forecast
+Chennai_Supermarket_1,2026-05,Grocery,Staples Packaged,22246,268,9.9%,Forecast
+Chennai_Supermarket_1,2026-05,Vegetables & Fruits,Fresh Vegetables,65718,2178,6.5%,Forecast
+Chennai_Supermarket_1,2026-05,Vegetables & Fruits,Seasonal Fruits,50808,1364,5.7%,Forecast
+Chennai_Supermarket_1,2026-05,Vegetables & Fruits,Organic Produce,13406,162,7.8%,Forecast
+Chennai_Supermarket_1,2026-05,Snacks & Bakery,Biscuits & Cookies,35850,1119,10.9%,Forecast
+Chennai_Supermarket_1,2026-05,Snacks & Bakery,Bread & Buns,20291,1066,8.5%,Forecast
+Chennai_Supermarket_1,2026-05,Snacks & Bakery,Cakes & Pastries,8738,46,9.3%,Forecast
+Chennai_Supermarket_1,2026-05,Snacks & Bakery,Chips & Ready Snacks,26692,1109,9.1%,Forecast
+Chennai_Supermarket_1,2026-05,Cosmetics,Skincare Products,13949,46,17.0%,Forecast
+Chennai_Supermarket_1,2026-05,Cosmetics,Personal Hygiene,21666,169,19.6%,Forecast
+Chennai_Supermarket_1,2026-05,Cosmetics,Haircare,10970,59,18.1%,Forecast
+Chennai_Supermarket_1,2026-06,Provision,Rice & Grains,48891,756,9.2%,Forecast
+Chennai_Supermarket_1,2026-06,Provision,Pulses & Lentils,26015,353,8.5%,Forecast
+Chennai_Supermarket_1,2026-06,Provision,Cooking Oil,38453,248,8.1%,Forecast
+Chennai_Supermarket_1,2026-06,Provision,Sugar & Salt,14653,368,8.7%,Forecast
+Chennai_Supermarket_1,2026-06,Grocery,Beverages,32854,770,11.1%,Forecast
+Chennai_Supermarket_1,2026-06,Grocery,Dairy Essentials,24720,490,9.6%,Forecast
+Chennai_Supermarket_1,2026-06,Grocery,Household Cleaners,18303,147,8.8%,Forecast
+Chennai_Supermarket_1,2026-06,Grocery,Staples Packaged,21349,258,9.8%,Forecast
+Chennai_Supermarket_1,2026-06,Vegetables & Fruits,Fresh Vegetables,61285,1972,6.9%,Forecast
+Chennai_Supermarket_1,2026-06,Vegetables & Fruits,Seasonal Fruits,42774,1271,6.6%,Forecast
+Chennai_Supermarket_1,2026-06,Vegetables & Fruits,Organic Produce,11403,138,6.7%,Forecast
+Chennai_Supermarket_1,2026-06,Snacks & Bakery,Biscuits & Cookies,36281,1208,10.1%,Forecast
+Chennai_Supermarket_1,2026-06,Snacks & Bakery,Bread & Buns,19379,940,10.5%,Forecast
+Chennai_Supermarket_1,2026-06,Snacks & Bakery,Cakes & Pastries,8890,43,11.1%,Forecast
+Chennai_Supermarket_1,2026-06,Snacks & Bakery,Chips & Ready Snacks,27287,1135,11.3%,Forecast
+Chennai_Supermarket_1,2026-06,Cosmetics,Skincare Products,14017,57,17.7%,Forecast
+Chennai_Supermarket_1,2026-06,Cosmetics,Personal Hygiene,22427,185,18.1%,Forecast
+Chennai_Supermarket_1,2026-06,Cosmetics,Haircare,12428,66,20.1%,Forecast
+Chennai_Supermarket_1,2026-07,Provision,Rice & Grains,42283,661,9.2%,Forecast
+Chennai_Supermarket_1,2026-07,Provision,Pulses & Lentils,27234,401,8.6%,Forecast
+Chennai_Supermarket_1,2026-07,Provision,Cooking Oil,37972,241,8.1%,Forecast
+Chennai_Supermarket_1,2026-07,Provision,Sugar & Salt,14390,377,7.9%,Forecast
+Chennai_Supermarket_1,2026-07,Grocery,Beverages,28514,701,9.4%,Forecast
+Chennai_Supermarket_1,2026-07,Grocery,Dairy Essentials,27052,518,9.2%,Forecast
+Chennai_Supermarket_1,2026-07,Grocery,Household Cleaners,18264,148,8.5%,Forecast
+Chennai_Supermarket_1,2026-07,Grocery,Staples Packaged,22306,258,7.6%,Forecast
+Chennai_Supermarket_1,2026-07,Vegetables & Fruits,Fresh Vegetables,57413,1893,6.3%,Forecast
+Chennai_Supermarket_1,2026-07,Vegetables & Fruits,Seasonal Fruits,45717,1362,5.8%,Forecast
+Chennai_Supermarket_1,2026-07,Vegetables & Fruits,Organic Produce,11986,142,6.0%,Forecast
+Chennai_Supermarket_1,2026-07,Snacks & Bakery,Biscuits & Cookies,34393,1164,9.2%,Forecast
+Chennai_Supermarket_1,2026-07,Snacks & Bakery,Bread & Buns,18560,999,9.9%,Forecast
+Chennai_Supermarket_1,2026-07,Snacks & Bakery,Cakes & Pastries,9216,47,9.6%,Forecast
+Chennai_Supermarket_1,2026-07,Snacks & Bakery,Chips & Ready Snacks,26349,1054,10.1%,Forecast
+Chennai_Supermarket_1,2026-07,Cosmetics,Skincare Products,13350,53,18.5%,Forecast
+Chennai_Supermarket_1,2026-07,Cosmetics,Personal Hygiene,23915,208,20.2%,Forecast
+Chennai_Supermarket_1,2026-07,Cosmetics,Haircare,11447,66,18.2%,Forecast
+Chennai_Supermarket_1,2026-08,Provision,Rice & Grains,50912,814,7.2%,Forecast
+Chennai_Supermarket_1,2026-08,Provision,Pulses & Lentils,25064,320,7.5%,Forecast
+Chennai_Supermarket_1,2026-08,Provision,Cooking Oil,36269,243,8.3%,Forecast
+Chennai_Supermarket_1,2026-08,Provision,Sugar & Salt,16688,437,7.4%,Forecast
+Chennai_Supermarket_1,2026-08,Grocery,Beverages,28382,727,7.7%,Forecast
+Chennai_Supermarket_1,2026-08,Grocery,Dairy Essentials,31076,658,8.5%,Forecast
+Chennai_Supermarket_1,2026-08,Grocery,Household Cleaners,16149,143,8.9%,Forecast
+Chennai_Supermarket_1,2026-08,Grocery,Staples Packaged,23633,271,8.4%,Forecast
+Chennai_Supermarket_1,2026-08,Vegetables & Fruits,Fresh Vegetables,60018,2005,5.5%,Forecast
+Chennai_Supermarket_1,2026-08,Vegetables & Fruits,Seasonal Fruits,43569,1178,5.9%,Forecast
+Chennai_Supermarket_1,2026-08,Vegetables & Fruits,Organic Produce,12086,154,6.7%,Forecast
+Chennai_Supermarket_1,2026-08,Snacks & Bakery,Biscuits & Cookies,32638,1004,11.3%,Forecast
+Chennai_Supermarket_1,2026-08,Snacks & Bakery,Bread & Buns,18358,883,11.6%,Forecast
+Chennai_Supermarket_1,2026-08,Snacks & Bakery,Cakes & Pastries,9062,47,10.1%,Forecast
+Chennai_Supermarket_1,2026-08,Snacks & Bakery,Chips & Ready Snacks,29214,1271,9.8%,Forecast
+Chennai_Supermarket_1,2026-08,Cosmetics,Skincare Products,14816,61,19.4%,Forecast
+Chennai_Supermarket_1,2026-08,Cosmetics,Personal Hygiene,20726,178,19.1%,Forecast
+Chennai_Supermarket_1,2026-08,Cosmetics,Haircare,10733,56,16.0%,Forecast
+Chennai_Supermarket_1,2026-09,Provision,Rice & Grains,44272,764,9.5%,Forecast
+Chennai_Supermarket_1,2026-09,Provision,Pulses & Lentils,26115,403,6.6%,Forecast
+Chennai_Supermarket_1,2026-09,Provision,Cooking Oil,34116,226,8.4%,Forecast
+Chennai_Supermarket_1,2026-09,Provision,Sugar & Salt,14970,335,7.9%,Forecast
+Chennai_Supermarket_1,2026-09,Grocery,Beverages,27651,714,9.4%,Forecast
+Chennai_Supermarket_1,2026-09,Grocery,Dairy Essentials,26421,514,7.9%,Forecast
+Chennai_Supermarket_1,2026-09,Grocery,Household Cleaners,17932,156,8.0%,Forecast
+Chennai_Supermarket_1,2026-09,Grocery,Staples Packaged,22665,275,8.2%,Forecast
+Chennai_Supermarket_1,2026-09,Vegetables & Fruits,Fresh Vegetables,59614,1884,5.4%,Forecast
+Chennai_Supermarket_1,2026-09,Vegetables & Fruits,Seasonal Fruits,38981,1223,6.0%,Forecast
+Chennai_Supermarket_1,2026-09,Vegetables & Fruits,Organic Produce,11496,145,5.9%,Forecast
+Chennai_Supermarket_1,2026-09,Snacks & Bakery,Biscuits & Cookies,34535,1186,10.8%,Forecast
+Chennai_Supermarket_1,2026-09,Snacks & Bakery,Bread & Buns,17427,846,9.7%,Forecast
+Chennai_Supermarket_1,2026-09,Snacks & Bakery,Cakes & Pastries,7756,35,11.4%,Forecast
+Chennai_Supermarket_1,2026-09,Snacks & Bakery,Chips & Ready Snacks,28566,1128,10.6%,Forecast
+Chennai_Supermarket_1,2026-09,Cosmetics,Skincare Products,14261,65,19.1%,Forecast
+Chennai_Supermarket_1,2026-09,Cosmetics,Personal Hygiene,21831,173,16.4%,Forecast
+Chennai_Supermarket_1,2026-09,Cosmetics,Haircare,12146,64,16.6%,Forecast
+Chennai_Supermarket_1,2026-10,Provision,Rice & Grains,43254,681,9.7%,Forecast
+Chennai_Supermarket_1,2026-10,Provision,Pulses & Lentils,27375,390,9.5%,Forecast
+Chennai_Supermarket_1,2026-10,Provision,Cooking Oil,38176,243,9.5%,Forecast
+Chennai_Supermarket_1,2026-10,Provision,Sugar & Salt,15485,367,7.8%,Forecast
+Chennai_Supermarket_1,2026-10,Grocery,Beverages,28423,661,9.9%,Forecast
+Chennai_Supermarket_1,2026-10,Grocery,Dairy Essentials,31207,580,9.6%,Forecast
+Chennai_Supermarket_1,2026-10,Grocery,Household Cleaners,17297,140,8.4%,Forecast
+Chennai_Supermarket_1,2026-10,Grocery,Staples Packaged,20859,261,8.2%,Forecast
+Chennai_Supermarket_1,2026-10,Vegetables & Fruits,Fresh Vegetables,67071,2230,5.8%,Forecast
+Chennai_Supermarket_1,2026-10,Vegetables & Fruits,Seasonal Fruits,43684,1212,6.8%,Forecast
+Chennai_Supermarket_1,2026-10,Vegetables & Fruits,Organic Produce,13596,161,6.1%,Forecast
+Chennai_Supermarket_1,2026-10,Snacks & Bakery,Biscuits & Cookies,43893,1340,10.5%,Forecast
+Chennai_Supermarket_1,2026-10,Snacks & Bakery,Bread & Buns,20741,1066,9.2%,Forecast
+Chennai_Supermarket_1,2026-10,Snacks & Bakery,Cakes & Pastries,9630,44,10.0%,Forecast
+Chennai_Supermarket_1,2026-10,Snacks & Bakery,Chips & Ready Snacks,31686,1210,10.6%,Forecast
+Chennai_Supermarket_1,2026-10,Cosmetics,Skincare Products,12604,50,16.8%,Forecast
+Chennai_Supermarket_1,2026-10,Cosmetics,Personal Hygiene,21139,176,17.1%,Forecast
+Chennai_Supermarket_1,2026-10,Cosmetics,Haircare,11723,68,17.4%,Forecast
+Chennai_Supermarket_1,2026-11,Provision,Rice & Grains,47256,743,8.5%,Forecast
+Chennai_Supermarket_1,2026-11,Provision,Pulses & Lentils,28248,353,7.2%,Forecast
+Chennai_Supermarket_1,2026-11,Provision,Cooking Oil,39315,259,8.4%,Forecast
+Chennai_Supermarket_1,2026-11,Provision,Sugar & Salt,14456,362,7.8%,Forecast
+Chennai_Supermarket_1,2026-11,Grocery,Beverages,32102,812,9.3%,Forecast
+Chennai_Supermarket_1,2026-11,Grocery,Dairy Essentials,27308,532,8.6%,Forecast
+Chennai_Supermarket_1,2026-11,Grocery,Household Cleaners,18426,150,9.3%,Forecast
+Chennai_Supermarket_1,2026-11,Grocery,Staples Packaged,24739,322,8.7%,Forecast
+Chennai_Supermarket_1,2026-11,Vegetables & Fruits,Fresh Vegetables,70756,2310,4.0%,Forecast
+Chennai_Supermarket_1,2026-11,Vegetables & Fruits,Seasonal Fruits,43405,1124,5.6%,Forecast
+Chennai_Supermarket_1,2026-11,Vegetables & Fruits,Organic Produce,13214,179,6.3%,Forecast
+Chennai_Supermarket_1,2026-11,Snacks & Bakery,Biscuits & Cookies,41447,1438,7.8%,Forecast
+Chennai_Supermarket_1,2026-11,Snacks & Bakery,Bread & Buns,21905,1137,8.5%,Forecast
+Chennai_Supermarket_1,2026-11,Snacks & Bakery,Cakes & Pastries,11541,58,9.6%,Forecast
+Chennai_Supermarket_1,2026-11,Snacks & Bakery,Chips & Ready Snacks,32384,1442,10.2%,Forecast
+Chennai_Supermarket_1,2026-11,Cosmetics,Skincare Products,14208,55,17.2%,Forecast
+Chennai_Supermarket_1,2026-11,Cosmetics,Personal Hygiene,23096,184,18.1%,Forecast
+Chennai_Supermarket_1,2026-11,Cosmetics,Haircare,11656,66,18.3%,Forecast
+Chennai_Supermarket_1,2026-12,Provision,Rice & Grains,47801,776,7.7%,Forecast
+Chennai_Supermarket_1,2026-12,Provision,Pulses & Lentils,24473,341,8.4%,Forecast
+Chennai_Supermarket_1,2026-12,Provision,Cooking Oil,39725,252,8.9%,Forecast
+Chennai_Supermarket_1,2026-12,Provision,Sugar & Salt,16220,413,9.9%,Forecast
+Chennai_Supermarket_1,2026-12,Grocery,Beverages,28607,670,7.2%,Forecast
+Chennai_Supermarket_1,2026-12,Grocery,Dairy Essentials,30513,630,8.9%,Forecast
+Chennai_Supermarket_1,2026-12,Grocery,Household Cleaners,18302,143,11.4%,Forecast
+Chennai_Supermarket_1,2026-12,Grocery,Staples Packaged,22170,278,9.7%,Forecast
+Chennai_Supermarket_1,2026-12,Vegetables & Fruits,Fresh Vegetables,67904,2288,5.2%,Forecast
+Chennai_Supermarket_1,2026-12,Vegetables & Fruits,Seasonal Fruits,47506,1485,7.3%,Forecast
+Chennai_Supermarket_1,2026-12,Vegetables & Fruits,Organic Produce,14461,176,5.0%,Forecast
+Chennai_Supermarket_1,2026-12,Snacks & Bakery,Biscuits & Cookies,41683,1393,11.1%,Forecast
+Chennai_Supermarket_1,2026-12,Snacks & Bakery,Bread & Buns,19406,1044,9.8%,Forecast
+Chennai_Supermarket_1,2026-12,Snacks & Bakery,Cakes & Pastries,10523,49,8.3%,Forecast
+Chennai_Supermarket_1,2026-12,Snacks & Bakery,Chips & Ready Snacks,32740,1314,8.7%,Forecast
+Chennai_Supermarket_1,2026-12,Cosmetics,Skincare Products,12912,50,19.7%,Forecast
+Chennai_Supermarket_1,2026-12,Cosmetics,Personal Hygiene,21657,166,17.8%,Forecast
+Chennai_Supermarket_1,2026-12,Cosmetics,Haircare,11803,56,17.9%,Forecast
